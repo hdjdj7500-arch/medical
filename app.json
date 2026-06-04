@@ -2,13 +2,8 @@
   "expo": {
     "name": "medical",
     "slug": "medical",
-    "version": "1.0.0",
     "owner": "mustafa200678y",
-    "extra": {
-      "eas": {
-        "projectId": "136337bf-7db5-44fb-a0d4-d181e1f9ca38"
-      }
-    },
+    "version": "1.0.0",
     "platforms": ["android"],
     "android": {
       "package": "com.medical.app"
